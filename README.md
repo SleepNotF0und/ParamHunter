@@ -8,16 +8,17 @@
 * Scrape Lvl-1,Lvl-2 Web Directories
 
 # Usage
-python ParamHunter.py http://target.com
+* python ParamHunter.py http://target.com
 
 # Packages
-requests,
-pyfiglet,
-random,
-time,
-sys,
-re,
-bs4 
+* requests
+* pyfiglet
+* random
+* time
+* sys
+* re
+* bs4 
 
-**Next Update:** Add the Cookie Value to access Endpoints that required Authentication
-**Next Update:** Delay Requests 
+# Next Updates
+* Add the Cookie Value to access Endpoints that required Authentication
+* Delay Requests 
