@@ -6,10 +6,10 @@ ParamHunter is a HTTP Paramter Discovery tool & Web Directory Scraper Written wi
 scrape HTML, JS Paramter in the Current page
 Scrape Lvl-1,Lvl-2 Web Directories
 
-**Usage**
+**Usage:**
 python ParamHunter.py http://target.com
 
-**Packages**
+**Packages:**
 requests,
 pyfiglet,
 random,
