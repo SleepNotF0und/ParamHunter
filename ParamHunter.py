@@ -498,16 +498,3 @@ print(bcolors['BOLD']+str(set(All_Cln_Actions)).replace('}','').replace('{','').
 print(bcolors['BOLD']+str(All_Inputs).replace('}','').replace('{','').replace("'","").replace(',','\n').replace(':','=').replace('"','')+bcolors['ENDC'])
 print(bcolors['BOLD']+str(All_Param).replace('}','').replace('{','').replace("'","").replace(',','\n').replace(':','=').replace('"','')+bcolors['ENDC'])
 print(bcolors['BOLD']+str(Param_regx).replace(']','').replace('[','').replace("'","").replace(',','\n').replace('"','')+bcolors['ENDC'])
-
-
-'''
-#UPCOMING~UPDATE
-#JS
-for scpt in soup_Obj1.find_all('script'):
-    All_Script.append(scpt)
-
-Links_regex = re.findall(r'http\S+', str(All_Script)) 
-Dir_regex = re.findall(r".*/+", str(All_Script)) 
-print(Links_regex)
-print(Dir_regex)
-'''
