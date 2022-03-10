@@ -8,7 +8,8 @@
 * Scrape Lvl-1,Lvl-2 Web Directories
 
 # Usage
-* python ParamHunter.py http://target.com
+python ParamHunter.py http://target.com
+python3 ParamHunter.py http://target.com
 
 # Packages
 * requests
