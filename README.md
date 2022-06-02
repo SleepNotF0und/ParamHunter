@@ -12,6 +12,7 @@ python ParamHunter.py http://target.com
 python3 ParamHunter.py http://target.com
 
 # Packages
+* python==3.7.2
 * requests
 * pyfiglet
 * bs4
