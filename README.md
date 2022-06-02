@@ -14,11 +14,12 @@ python3 ParamHunter.py http://target.com
 # Packages
 * requests
 * pyfiglet
+* bs4
+* lxml
 * random
 * time
 * sys
 * re
-* bs4 
 
 # Next Updates
 * Add the Cookie Value to access Endpoints that required Authentication
