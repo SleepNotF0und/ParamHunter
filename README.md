@@ -8,8 +8,8 @@
 * Scrape Lvl-1,Lvl-2 Web Directories
 
 # Usage
-python ParamHunter.py http://target.com
-python3 ParamHunter.py http://target.com
+* python ParamHunter.py http://target.com
+* python3 ParamHunter.py http://target.com
 
 # Packages
 * python==3.7.2
@@ -25,3 +25,7 @@ python3 ParamHunter.py http://target.com
 # Next Updates
 * Add the Cookie Value to access Endpoints that required Authentication
 * Delay Requests 
+
+# Note
+* Tested on Windows Only
+* Python 3.7.3
