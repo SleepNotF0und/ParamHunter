@@ -28,4 +28,4 @@
 
 # Note
 * Tested on Windows Only
-* Python 3.7.3
+
