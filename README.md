@@ -15,7 +15,6 @@
 # Packages
 * python==3.7.2
 * requests
-* pyfiglet
 * bs4
 * lxml
 * random
