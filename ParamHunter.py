@@ -1,5 +1,4 @@
 import requests
-import pyfiglet
 import random
 import time
 import sys
@@ -23,8 +22,15 @@ bcolors = {
 
 
 #BANNER
-print("\n\n",bcolors['FAIL'] + pyfiglet.figlet_format("PaRam -)->", font="3-d") + bcolors['ENDC']) 
-print(bcolors['BOLD'] +"Coded By Hazem Yasser | github.com/SleepNotF0und | hackerone.com/0xr3dhunt\n\n" + bcolors['ENDC'])
+print("  *******           *******                                /**        /**        ")
+print(" /**////**          /**////**                               //**       // **     ")
+print(" /**   /**  ******  /**   /**   ******   **********          //**        // **   ")
+print(" /*******  //////** /*******   //////** //**//**//**   ****** /*********** // ** ")
+print(" /**////    ******* /**///**    *******  /** /** /**  /////// /**  //////// **/  ")
+print(" /**       **////** /**  //**  **////**  /** /** /**          **/         **/    ")
+print(" /**      //********/**   //**//******** *** /** /**         **/        **/      ")
+print(" //        //////// //     //  //////// ///  //  //         //         //        ")
+print("Coded By Hazem Yasser | hackerone.com/0xr3dhunt\n\n")
 
 
 #USER~AGENTS
